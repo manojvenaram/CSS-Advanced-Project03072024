@@ -1,7 +1,7 @@
 ### Create a simplified clone of Dribbble landing page.
 #### Project: Simplified Clone of Dribbble Landing Page
 Objective
-To create a simplified clone of the Dribbble landing page using HTML, CSS, and JavaScript. This project will focus on replicating the main visual and functional elements of the page, providing a clean and responsive design.
+To create a simplified clone of the Dribbble landing page using HTML, CSS. This project will focus on replicating the main visual and functional elements of the page, providing a clean and responsive design.
 
 #### Key Features
 Header
@@ -11,7 +11,7 @@ Navigation links (e.g., Home, Discover, Jobs, Sign Up, etc.)
 Search bar
 User login/signup buttons
 Hero Section
-
+    ```
 #### Large background image or color
 Headline text
 Subheadline text
