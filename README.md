@@ -1,4 +1,33 @@
-### Create a simplified clone of Dribbble (https://dribbble.com/) landing page.
+### Create a simplified clone of Dribbble landing page.
+#### Project: Simplified Clone of Dribbble Landing Page
+Objective
+To create a simplified clone of the Dribbble landing page using HTML, CSS, and JavaScript. This project will focus on replicating the main visual and functional elements of the page, providing a clean and responsive design.
+
+#### Key Features
+Header
+
+Logo
+Navigation links (e.g., Home, Discover, Jobs, Sign Up, etc.)
+Search bar
+User login/signup buttons
+Hero Section
+
+#### Large background image or color
+Headline text
+Subheadline text
+Call-to-action buttons (e.g., "Sign up to showcase your work")
+Featured Shots/Projects
+
+#### Grid layout displaying images or project thumbnails
+Hover effects (e.g., zoom, shadow)
+Titles and brief descriptions
+Popular Categories/Tags
+
+#### List of categories or tags with corresponding icons or images
+Footer
+
+Links to various pages (e.g., About, Contact, Terms, Privacy)
+Social media icons
 #### dribble.html
 ```
 <!DOCTYPE html>
